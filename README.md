@@ -12,7 +12,7 @@
 
 png install git
 
-git clone https://github.com/EamMC/Shot-message
+git clone https://github.com/EamMC/Shot-message1
 
 cd message.py
 
