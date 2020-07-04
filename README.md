@@ -14,7 +14,7 @@ png install git
 
 git clone https://github.com/EamMC/Shot-message
 
-cd SMS
+cd message.py
 
 ls 
 
